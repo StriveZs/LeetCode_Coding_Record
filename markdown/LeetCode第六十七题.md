@@ -11,7 +11,7 @@ tags:
   - OJ
 ---
 
-# LeetCode第六十七题
+# LeetCode第六十七题—二进制求和
 自己代码的开源仓库:[click here](https://github.com/zs670980918/LeetCode_Coding_Record)  欢迎Star和Fork :)
 
 ## 题目描述
