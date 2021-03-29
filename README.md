@@ -72,3 +72,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第65题：[有效数字](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AD%E5%8D%81%E4%BA%94%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/valid-number/)
  - 第66题：[加一](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AD%E5%8D%81%E5%85%AD%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/plus-one/comments/)
  - 第67题：[二进制求和](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%83%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/add-binary/)
+ - 第68题：[文本左右对齐](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AD%E5%8D%81%E5%85%AB%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/text-justification/comments/)
