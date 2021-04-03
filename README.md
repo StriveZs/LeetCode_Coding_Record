@@ -77,3 +77,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第70题：[爬楼梯](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%83%E5%8D%81%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/climbing-stairs/comments/)
  - 第71题：[简化路径](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%83%E5%8D%81%E4%B8%80%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/simplify-path/)
  - 第72题：[简化路径](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%83%E5%8D%81%E4%BA%8C%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/edit-distance)
+ - 第73题：[矩阵置零](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%83%E5%8D%81%E4%B8%89%E9%A2%98.md)  原题网址：[click here](https://blog.csdn.net/qq_16184125/article/details/115422442)
