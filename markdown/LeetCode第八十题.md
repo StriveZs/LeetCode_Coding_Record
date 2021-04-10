@@ -11,7 +11,7 @@ tags:
   - OJ
 ---
 
-# LeetCode第八十题—单词搜索
+# LeetCode第八十题—删除有序数组中的重复项II
 自己代码的开源仓库:[click here](https://github.com/zs670980918/LeetCode_Coding_Record)  欢迎Star和Fork :)
 
 ## 题目描述
