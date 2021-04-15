@@ -88,4 +88,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第81题：[搜索旋转排序数组 II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E4%B8%80%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
  - 第82题：[删除排序链表中的重复元素 II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E4%BA%8C%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
  - 第83题：[删除排序链表中的重复元素](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E4%B8%89%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
-
+ - 第84题：[柱状图中最大的矩形](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E5%9B%9B%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
