@@ -92,3 +92,5 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第85题：[最大矩形](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E5%9B%9B%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/maximal-rectangle/)
  - 第86题：[分隔链表](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E5%85%AD%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/partition-list/)
  - 第87题：[扰乱字符串](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E4%B8%83%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/scramble-string/)
+ - 第88题：[合并两个有序数组](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E5%85%AB%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/merge-sorted-array)
+ - 第89题：[格雷编码](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E5%85%AB%E5%8D%81%E4%B9%9D%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/gray-code)
