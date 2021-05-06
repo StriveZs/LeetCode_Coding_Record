@@ -104,3 +104,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第97题：[交错字符串](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%83%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/interleaving-string/)
  - 第98题：[验证二叉搜索树](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B9%9D%E5%8D%81%E5%85%AB%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/validate-binary-search-tree/)
  - 第99题：[恢复二叉搜索树](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B9%9D%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/recover-binary-search-tree/)
+ - 第100题：[相同的树](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%80%E7%99%BE%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/same-tree/)
