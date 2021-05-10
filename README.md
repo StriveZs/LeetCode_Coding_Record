@@ -108,3 +108,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第101题：[对称二叉树](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC101%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/symmetric-tree/)
  - 第102题：[二叉树的层序遍历](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC102%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
  - 第103题：[二叉树的锯齿形层序遍历](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC103%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+ - 第104题：[二叉树的最大深度](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC104%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
