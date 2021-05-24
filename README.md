@@ -121,3 +121,5 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第114题：[将二叉树展开为链表](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC114%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
  - 第115题：[不同的子序列](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC115%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/distinct-subsequences/)
  - 第116题：[填充每个节点的下一个右侧节点指针](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC116%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+ - 第117题：[填充每个节点的下一个右侧节点指针II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC117%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)
+ - 第118题：[杨辉三角](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC118%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/pascals-triangle/)
