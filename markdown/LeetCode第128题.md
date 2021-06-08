@@ -12,7 +12,7 @@ tags:
 ---
 
 
-# LeetCode第128题—单词接龙
+# LeetCode第128题—最长连续序列
 好久没更新了，最近事情太多了，天天忙的要死，英语也没来得及背，后面会慢慢恢复的，同时也会更新一大堆学习到的东西，敬请期待。  
 
 自己代码的开源仓库:[click here](https://github.com/zs670980918/LeetCode_Coding_Record)  欢迎Star和Fork :)
