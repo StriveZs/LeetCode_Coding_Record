@@ -135,3 +135,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第128题：[最长连续序列](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC128%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
  - 第129题：[求根节点到叶节点数字之和](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC129%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
  - 第130题：[被围绕的区域](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC130%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/surrounded-regions/)
+ - 第131题：[分割回文串](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC131%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/palindrome-partitioning/)
