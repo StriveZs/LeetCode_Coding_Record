@@ -143,3 +143,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第136题：[只出现一次的数字](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC136%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/single-number/)
  - 第137题：[只出现一次的数字II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC137%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/single-number-ii/)
  - 第138题：[复制带随机指针的链表](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC138%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+ - 第139题：[单词拆分](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC139%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/word-break/)
