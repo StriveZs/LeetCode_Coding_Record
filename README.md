@@ -146,3 +146,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第139题：[单词拆分](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC139%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/word-break/)
  - 第140题：[单词拆分II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC140%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/word-break-ii/)
  - 第141题：[环形链表](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC141%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/linked-list-cycle/)
+ - 第142题：[环形链表II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC142%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/linked-list-cycle-ii)
