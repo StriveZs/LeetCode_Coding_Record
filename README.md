@@ -151,3 +151,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第144题：[二叉树的前序遍历](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC144%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
  - 第145题：[二叉树的后序遍历](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC145%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)
  - 第146题：[LRU缓存机制](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC146%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/lru-cache/submissions/)
+ - 第147题：[对链表进行插入排序](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC147%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/insertion-sort-list/)
