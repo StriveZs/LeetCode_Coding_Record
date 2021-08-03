@@ -3,6 +3,8 @@
 
 Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^#)
 
+万恶的资本主义，因为没钱，只能刷免费的题，好气哦。后面的题是断序号的 呜呜呜
+
 ## 题目目录
 [目录](https://leetcode-cn.com/problemset/all/):
  - 第1题：[两数之和](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC%E4%B8%80%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/two-sum/)
@@ -160,3 +162,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第153题：[寻找旋转排序数组中的最小值](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC153%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
  - 第154题：[寻找旋转排序数组中的最小值II](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC154%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
  - 第155题：[最小栈](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC155%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/min-stack/)
+ - 第160题：[相交链表](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC160%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
