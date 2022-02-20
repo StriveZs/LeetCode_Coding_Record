@@ -166,3 +166,4 @@ Python编写，不一定是最优的但是一定是自己纯手工打得，(#^.^
  - 第162题：[寻找峰值](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC162%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/find-peak-element/submissions/)
  - 第164题：[最大间隔](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC164%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/maximum-gap/submissions/)
  - 第165题：[比较版本号](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC165%E9%A2%98.md)  原题网址：[click here](https://leetcode-cn.com/problems/compare-version-numbers)
+ - 第166题：[分数到小数](https://github.com/zs670980918/LeetCode_Coding_Record/blob/main/markdown/LeetCode%E7%AC%AC166%E9%A2%98.md) 原题网址：[click here](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)
